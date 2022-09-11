@@ -9,3 +9,7 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
 ZCZC W00 60 L09 Weekly Assignments
+ZCZC W01 3 L05 Quiz 1
+ZCZC W01 100 L02 Tuesday Synchronous Zoom Meeting
+ZCZC W01 100 L02 Thursday Synchronous Zoom Meeting
+ZCZC W01 60 L05 Studying for Quiz by reading PPT
