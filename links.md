@@ -13,9 +13,14 @@ permalink: LINKS/
 # LINKS
 USEFUL LINK
 1. [OS Main Link](https://os.vlsm.org/)<br>
-This is the main link for Operating System course, I put it here so I can easily access the website.
-2. https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
-3. https://www.youtube.com/watch?v=tZTOOzDnw24&list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT
+The main link for Operating System course
+
+2. [Github](https://github.com/)
+My Github account
+
+3. [Scele OS course](https://scele.cs.ui.ac.id/course/view.php?id=3398)
+The main website that used in Operating System Course
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
