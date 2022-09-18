@@ -21,3 +21,23 @@ ZCZC W01 3    L05 Quiz week 1
 ZCZC W01 220  L31 Setting up Virtual Box
 ZCZC W01 50   L11 try to finish W01 assignnment
 ZCZC W01 20   L11 Complete the assignment of W01
+ZCZC W02 100  L02 Following online lecture via zoom meeting (13th September)
+ZCZC W02 100  L02 Following online lecture via zoom meeting (15th September)
+ZCZC W02 45   L05 Doing Reading Assignment Chapter 16
+ZCZC W02 40   L05 Doing Reading Assignment Chapter 17
+ZCZC W02 3    L05 Quiz week 2
+ZCZC W02 20   L26 Generate GnuPG pubkey on Putty
+ZCZC W02 10   L26 Doing List of current GnuPG keys
+ZCZC W02 20   L26 Importing Operating System public key
+ZCZC W02 15   L26 Signing Operating System public key
+ZCZC W02 15   L26 Exporting my public key
+ZCZC W02 25   L26 Doing finishing part of assignment( add, commit, and push mypubkey.txt)
+ZCZC W02 1    L26 Doing decrypting WEEK02.tar.bz2.asc (assignment5)
+ZCZC W02 1    L22 Doing extracting TARBALL (assignment5)
+ZCZC W02 7    L01 Posting my pubkey on SCeLe
+ZCZC W02 30   L31 Updating mylog.txt
+ZCZC W02 10   L01 Checking the scele because I have some troble with the username
+ZCZC W02 20   L06 Read the forum before about the same problem in scele
+ZCZC W02 10   L08 Chat with assistant to ask some question
+ZCZC W02 30   L21 Try to fix my problem about username with adding new user
+ZCZC W02 10   L01 Post reply answer to scele with the fix username
