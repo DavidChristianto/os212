@@ -44,3 +44,12 @@ ZCZC W02 10   L01 Post reply answer to scele with the fix username
 ZCZC W02 5    L41 Updating mylog.txt
 ZCZC W02 15   L04 Adding some new link for WEEK02 to my Links on github page
 ZCZC W02 15   L03 Created myrank.txt, updated myupdate.txt
+ZCZC W03 100  L02 Following online lecture via zoom meeting (20th September)
+ZCZC W03 25   L31 Creating, formatting, mounting, changing ownership of a new disk (WEEK03 task)
+ZCZC W03 12   L23 Download and run WEEK03 scripts
+ZCZC W03 12   L03 Update myupdate.txt and mylog.txt
+ZCZC W03 30   L43 Peer-review and updating myrank.txt
+ZCZC W03 10   L03 Update links.md
+ZCZC W03 14   L41 Update mylog.txt
+ZCZC W03 20   L31 Changing home directory
+ZCZC W03 15   L31 Changing group name
