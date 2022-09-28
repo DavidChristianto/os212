@@ -54,6 +54,18 @@ ZCZC W03 14   L41 Update mylog.txt
 ZCZC W03 20   L31 Changing home directory
 ZCZC W03 15   L31 Changing group name
 ZCZC W03 5    L41 Update mylog.txt
-
+ZCZC W03 100  L02 Following online lecture via zoom meeting (22nd September)
+ZCZC W03 20   L26 Create and encrypt DavidChristianto.txt
+ZCZC W03 10   L01 Answer PopQuiz Week03
+ZCZC W04 100  L02 Following online lecture via zoom meeting (27th September)
+ZCZC W04 5    L26 Decrypt WEEK04.tar.bz2.asc
+ZCZC W04 5    L22 Extract WEEk04.tar.bz2
+ZCZC W04 10   L23 Run Script
+ZCZC W04 5    L40 update myupdate.txt
+ZCZC W04 30   L41 update mylog.txt
+ZCZC W04 10   L31 FIx error, running dpkg-reconfigure dash in super user
+ZCZC W04 15   L23 re-run script WEEK04
+ZCZC W04 5    L27 log in DavidChristianto@os1.cs.ui.ac.id
+ZCZC W04 10   L03 git add, commit, push
 
 
