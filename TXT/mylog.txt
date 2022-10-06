@@ -67,5 +67,28 @@ ZCZC W04 10   L31 FIx error, running dpkg-reconfigure dash in super user
 ZCZC W04 15   L23 re-run script WEEK04
 ZCZC W04 5    L27 log in DavidChristianto@os1.cs.ui.ac.id
 ZCZC W04 10   L03 git add, commit, push
+ZCZC W04 5    L01 Posting the result on scele for W04 Popquiz
+ZCZC W04 20   L25 Create directory, C file and Makefile for Popquiz
+ZCZC W04 10   L22 Compress directory into TARBALL
+ZCZC W04 7    L26 Encrypting TARBALL
+ZCZC W04 15   L41 Update mylog.txt
+ZCZC W04 10   L44 Re run myscript
+ZCZC W04 5    L03 git add, commit and push
+ZCZC W04 100  L02 Following ofline class (29 th Sept 2022)
+ZCZC W05 100  L02 Following online class via zoom meeting(4 th Oct 2022)
+ZCZC W05 100  L02 Following ofline class (6 Oct 2022)
+ZCZC W05 25   L31 Try low memory is need to run deb guest
+ZCZC W05 5    L26 Decrypting tarball
+ZCZC W05 5    L22 Encrypting tarball
+ZCZC W05 10   L23 Running script 00 and 01
+ZCZC W05 5    L23 Run 05-WEEK05a.sh
+ZCZC W05 40   L25 Modify mymemory2.c and test it
+ZCZC W05 7    L23 Run 05-WEEK05b.sh
+ZCZC W05 2    L40 update myupdate.txt
+ZCZC W05 7    L43 update myrank.txt
+ZCZC W05 15   L41 update mylog.txt
+ZCZC W05 10   L23 Run myscript.sh
+ZCZC W05 5    L03 git add, commit, push
+
 
 
