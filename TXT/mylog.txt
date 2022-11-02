@@ -89,6 +89,17 @@ ZCZC W05 7    L43 update myrank.txt
 ZCZC W05 15   L41 update mylog.txt
 ZCZC W05 10   L23 Run myscript.sh
 ZCZC W05 5    L03 git add, commit, push
-
-
-
+ZCZC W06 100  L02 Following online class via zoom meeting (1 Nov 2022)
+ZCZC W06 100  L02 Following ofline class (3 Nov 2022)
+ZCZC W06 15   L31 Update back my memory to 1024 MB
+ZCZC W06 25   L31 Update my Debian Guest on my Mac OS in Super User mode
+ZCZC W06 15   L23 Download and Run myscript fo W06
+ZCZC W06 10   L26 Decrypt WEEK06.tar.bz2.asc
+ZCZC W06 10   L22 Extract WEEK04.tar.bz2
+ZCZC W06 10   L23 Run script
+ZCZC W06 5    L40 Update myupdate.txt
+ZCZC W06 20   L43 Update myrank.txt
+ZCZC W06 40   L41 Update mylog.txt
+ZCZC W06 15   L01 Answer PopQuiz W06
+ZCZC W06 5    L05 Doing Quiz
+ZCZC W06 10   L03 git add, commit, push
