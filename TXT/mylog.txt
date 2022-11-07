@@ -93,13 +93,23 @@ ZCZC W06 100  L02 Following online class via zoom meeting (1 Nov 2022)
 ZCZC W06 100  L02 Following ofline class (3 Nov 2022)
 ZCZC W06 15   L31 Update back my memory to 1024 MB
 ZCZC W06 25   L31 Update my Debian Guest on my Mac OS in Super User mode
-ZCZC W06 15   L23 Download and Run myscript fo W06
+ZCZC W06 15   L23 Download and Run myscript for W06
 ZCZC W06 10   L26 Decrypt WEEK06.tar.bz2.asc
 ZCZC W06 10   L22 Extract WEEK04.tar.bz2
 ZCZC W06 10   L23 Run script
 ZCZC W06 5    L40 Update myupdate.txt
 ZCZC W06 20   L43 Update myrank.txt
 ZCZC W06 40   L41 Update mylog.txt
-ZCZC W06 15   L01 Answer PopQuiz W06
+ZCZC W06 20   L01 Answer PopQuiz1 W06
 ZCZC W06 5    L05 Doing Quiz
 ZCZC W06 10   L03 git add, commit, push
+ZCZC W06 3    L05 Doing Quiz Week06
+ZCZC W06 30   L06 GSGS How to compress tar.xz.asc
+ZCZC W06 30   L05 Doing popQuiz 2 and 3
+ZCZC W06 15   L05 Continue doing popQuiz 2 and 3
+ZCZC W06 180  L05 Read ppt for weekly Quiz
+ZCZC W06 20   L05 Re-Check the popQuiz on Os1
+ZCZC W06 40   L64 Help and explain the way to do the PopQuiz
+ZCZC W06 25   L41 Updating mylog.txt
+ZCZC W06 5    L23 Re-run myscript
+ZCZC W06 5    L03 git add, commit, push
