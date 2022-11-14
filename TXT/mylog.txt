@@ -115,6 +115,7 @@ ZCZC W06 5    L23 Re-run myscript
 ZCZC W06 5    L03 git add, commit, push
 ZCZC W07 100  L02 Following online class via zoom meeting (8 Nov 2022)
 ZCZC W07 100  L02 Following ofline class (10 Nov 2022)
+ZCZC W07 20 L07 Pulling os repository; copying the Demos into mydemo; running 98-DEMO-CHECK.sh
 ZCZC W07 25   L31 Update my Debian Guest on my Mac OS in Super User mode
 ZCZC W07 15   L23 Download and Run myscript for W06
 ZCZC W07 10   L26 Decrypt WEEK06.tar.bz2.asc
@@ -128,3 +129,11 @@ ZCZC W07 20   L01 Doing PopQuiz2 W07
 ZCZC W07 5    L05 Doing Quiz1
 ZCZC W07 40   L64 Help and explain the way to do the PopQuiz and do weekly assignment 
 ZCZC W07 5    L03 git add, commit, push
+ZCZC W07 60   L05 Read ppt for weekly Quiz
+ZCZC W07 3    L05 Doing Quiz2
+ZCZC W07 40   L64 Help my friend and answer my friends question via line hoe to do popquiz W07
+ZCZC W07 15   L22 Make Alias for entering os1
+ZCZC W07 30   L41 Update mylog.txt
+ZCZC W07 5    L23 Rerun myscript
+ZCZC W07 5    L03 git add, commit, push
+
