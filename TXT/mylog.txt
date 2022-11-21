@@ -115,11 +115,11 @@ ZCZC W06 5    L23 Re-run myscript
 ZCZC W06 5    L03 git add, commit, push
 ZCZC W07 100  L02 Following online class via zoom meeting (8 Nov 2022)
 ZCZC W07 100  L02 Following ofline class (10 Nov 2022)
-ZCZC W07 20 L07 Pulling os repository; copying the Demos into mydemo; running 98-DEMO-CHECK.sh
+ZCZC W07 20   L07 Pulling os repository; copying the Demos into mydemo; running 98-DEMO-CHECK.sh
 ZCZC W07 25   L31 Update my Debian Guest on my Mac OS in Super User mode
 ZCZC W07 15   L23 Download and Run myscript for W06
-ZCZC W07 10   L26 Decrypt WEEK06.tar.bz2.asc
-ZCZC W07 10   L22 Extract WEEK04.tar.bz2
+ZCZC W07 10   L26 Decrypt WEEK07.tar.bz2.asc
+ZCZC W07 10   L22 Extract WEEK07.tar.bz2
 ZCZC W07 10   L23 Run script
 ZCZC W07 5    L40 Update myupdate.txt
 ZCZC W07 20   L43 Update myrank.txt
@@ -136,4 +136,23 @@ ZCZC W07 15   L22 Make Alias for entering os1
 ZCZC W07 30   L41 Update mylog.txt
 ZCZC W07 5    L23 Rerun myscript
 ZCZC W07 5    L03 git add, commit, push
-
+ZCZC W08 100  L02 Following online class via zoom meeting (15 Nov 2022)
+ZCZC W08 100  L02 Following ofline class (17 Nov 2022)
+ZCZC W08 20   L07 Pulling os repository; copying the Demos into mydemo; running 97-DEMO-CHECK.sh
+ZCZC W08 15   L23 Download myscript for W06
+ZCZC W08 10   L26 Decrypt WEEK08.tar.bz2.asc
+ZCZC W08 10   L22 Extract WEEK08.tar.bz2
+ZCZC W08 10   L23 Run script
+ZCZC W08 20   L01 Answer PopQuiz1 W08
+ZCZC W08 10   L01 Answer PopQuiz2 W08
+ZCZC W08 5    L01 Answer PopQuiz3 W08
+ZCZC W08 10   L01 Answer PopQuiz4 W08
+ZCZC W08 5    L05 Doing Quiz1
+ZCZC W08 3    L05 Doing Quiz2
+ZCZC W08 360  L18 Doing Assignment 8 LFS
+ZCZC W08 60   L05 Read ppt for weekly Quiz
+ZCZC W08 40   L08 Chat my friend via line about os
+ZCZC W08 5    L40 Update myupdate.txt
+ZCZC W08 20   L43 Update myrank.txt
+ZCZC W08 40   L41 Update mylog.txt
+ZCZC W08 5    L03 git add, commit, push
