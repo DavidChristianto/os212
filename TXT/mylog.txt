@@ -156,3 +156,18 @@ ZCZC W08 5    L40 Update myupdate.txt
 ZCZC W08 20   L43 Update myrank.txt
 ZCZC W08 40   L41 Update mylog.txt
 ZCZC W08 5    L03 git add, commit, push
+ZCZC W09 100  L02 Following online class via zoom (22 Nov 2022)
+ZCZC W09 10   L23 Download script W09
+ZCZC W09 10   L26 Decrypt script
+ZCZC W09 10   L22 Extract script
+ZCCZ W09 10   L23 Run script
+ZCZC W09 15   L01 Doing popquiz1
+ZCZC W09 3    L05 Doing Quiz1
+ZCZC W09 5    L05 Doing Quiz2
+ZCZC W09 240  L18 Doing LFS chapter 6-7
+ZCZC W09 60   L05 Read ppt for weekly quiz
+ZCZC W09 5    L40 Update myupdate,txt
+ZCZC W09 20   L43 Update myrank.txt
+ZCZC W09 40   L41 Update mylog.txt
+ZCZC W09 10   L23 Bash myscript
+ZCZC W09 5    L03 git add, commit, push
